@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.log
+*.npz
+!demo/demo_pair_val_1000.npz
+.DS_Store
